@@ -1,0 +1,2 @@
+# TFG-Aplicacion-de-Tecnicas-de-Machine-Learning-en-la-predicci-n-de-incendios-forestales.
+Código para la elaboración de mi TFG- Aplicación de Técnicas de Machine Learning en la predicción de las condiciones meteorológicas asociadas a incendios forestales. Contiene los códigos para los algoritmos SVC, RF y MLP, con distintas técincas: Lag features, PCA y algoritmo base. Todos ellos con optimización de hiperparámetros con GridSearchCV.
